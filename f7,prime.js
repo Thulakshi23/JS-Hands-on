@@ -8,7 +8,7 @@ function isPrime(number) {
             return (false)
         }
     }
-    return (true)   
+    return (true)    
 }
 
 let num = 72;
